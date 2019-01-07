@@ -1,0 +1,16 @@
+c:\users\hoke\documents\visual studio 2015\Projects\chargedoctor server\chargedoctor server\bin\Debug\chargedoctor server.exe
+c:\users\hoke\documents\visual studio 2015\Projects\chargedoctor server\chargedoctor server\bin\Debug\chargedoctor server.pdb
+c:\users\hoke\documents\visual studio 2015\Projects\chargedoctor server\chargedoctor server\bin\Debug\Newtonsoft.Json.dll
+c:\users\hoke\documents\visual studio 2015\Projects\chargedoctor server\chargedoctor server\bin\Debug\Newtonsoft.Json.xml
+c:\users\hoke\documents\visual studio 2015\Projects\chargedoctor server\chargedoctor server\obj\Debug\chargedoctor server.csprojResolveAssemblyReference.cache
+c:\users\hoke\documents\visual studio 2015\Projects\chargedoctor server\chargedoctor server\obj\Debug\chargedoctor server.exe
+c:\users\hoke\documents\visual studio 2015\Projects\chargedoctor server\chargedoctor server\obj\Debug\chargedoctor server.pdb
+C:\Users\emre\Desktop\chargedoctor server\chargedoctor server\bin\Debug\chargedoctor server.exe
+C:\Users\emre\Desktop\chargedoctor server\chargedoctor server\bin\Debug\chargedoctor server.pdb
+C:\Users\emre\Desktop\chargedoctor server\chargedoctor server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\emre\Desktop\chargedoctor server\chargedoctor server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\emre\Desktop\chargedoctor server\chargedoctor server\obj\Debug\chargedoctor server.csprojAssemblyReference.cache
+C:\Users\emre\Desktop\chargedoctor server\chargedoctor server\obj\Debug\chargedoctor server.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\chargedoctor server\chargedoctor server\obj\Debug\chargedoctor server.csproj.CopyComplete
+C:\Users\emre\Desktop\chargedoctor server\chargedoctor server\obj\Debug\chargedoctor server.exe
+C:\Users\emre\Desktop\chargedoctor server\chargedoctor server\obj\Debug\chargedoctor server.pdb
